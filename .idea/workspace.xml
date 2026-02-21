@@ -5,36 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d2fca3e0-3802-4b94-bea0-655b6b7ac297" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Data_Structure_PR1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/25-26-2-pr1-PR1Statement/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/25-26-2-pr1-PR1Statement/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/25-26-2-pr1-PR1Statement/src/main/java/edu/uoc/ds/adt/util/ArchimedeanSpiral.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/25-26-2-pr1-PR1Statement/src/main/java/edu/uoc/ds/adt/util/Point.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/25-26-2-pr1-PR1Statement/src/main/java/edu/uoc/ds/adt/util/SpiralGeneratorDummy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/25-26-2-pr1-PR1Statement/src/main/java/edu/uoc/ds/adt/model/PR1WeatherStationDataQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/25-26-2-pr1-PR1Statement/src/main/java/edu/uoc/ds/adt/PR1WeatherStationDataQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/25-26-2-pr1-PR1Statement/src/main/java/edu/uoc/ds/adt/model/WeatherStationData.java" beforeDir="false" afterPath="$PROJECT_DIR$/25-26-2-pr1-PR1Statement/src/main/java/edu/uoc/ds/adt/model/WeatherStationData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/25-26-2-pr1-PR1Statement/src/main/java/edu/uoc/ds/adt/model/WeatherStationDataSummaryItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/25-26-2-pr1-PR1Statement/src/main/java/edu/uoc/ds/adt/model/WeatherStationDataSummaryItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/25-26-2-pr1-PR1Statement/src/main/java/edu/uoc/ds/adt/util/ArchimedeanSpiral.java" beforeDir="false" afterPath="$PROJECT_DIR$/25-26-2-pr1-PR1Statement/src/main/java/edu/uoc/ds/adt/util/ArchimedeanSpiral.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/25-26-2-pr1-PR1Statement/src/test/java/edu/uoc/ds/adt/ArchitectureTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/25-26-2-pr1-PR1Statement/src/test/java/edu/uoc/ds/adt/ArchitectureTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/25-26-2-pr1-PR1Statement/src/test/java/edu/uoc/ds/adt/PR1WheatherStationDataQueueTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/25-26-2-pr1-PR1Statement/src/test/java/edu/uoc/ds/adt/PR1WheatherStationDataQueueTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/pr1/._.DS_Store" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/pr1/lib/._.DS_Store" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/pr1/src/._.DS_Store" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/pr1/src/main/._.DS_Store" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/pr1/src/main/java/._.DS_Store" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/pr1/src/main/java/edu/._.DS_Store" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/pr1/src/main/java/edu/uoc/._.DS_Store" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/pr1/src/main/java/edu/uoc/ds/._.DS_Store" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/pr1/src/main/java/edu/uoc/ds/adt/._PR1Stack.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/pr1/src/test/._.DS_Store" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/pr1/src/test/java/._.DS_Store" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/pr1/src/test/java/edu/._.DS_Store" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/pr1/src/test/java/edu/uoc/._.DS_Store" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/pr1/src/test/java/edu/uoc/ds/._.DS_Store" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/pr1/src/test/java/edu/uoc/ds/adt/._PR1QueueTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/pr1/src/test/java/edu/uoc/ds/adt/._PR1StackTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pr1/src/main/java/edu/uoc/ds/adt/PR1Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/pr1/src/main/java/edu/uoc/ds/adt/PR1Queue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pr1/src/main/java/edu/uoc/ds/adt/PR1Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/pr1/src/main/java/edu/uoc/ds/adt/PR1Stack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pr1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pr1/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +45,7 @@
     "Application.ArchimedeanSpiral.executor": "Run",
     "Application.SpiralDemoApp.executor": "Run",
     "Application.main.executor": "Run",
+    "JUnit.All in DS_PR1.executor": "Run",
     "JUnit.PR1StackTest.executor": "Run",
     "JUnit.PR1StackTest.stackTest.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
@@ -186,7 +166,7 @@
       <workItem from="1771684463342" duration="71000" />
       <workItem from="1771684566086" duration="4899000" />
       <workItem from="1771695750314" duration="1705000" />
-      <workItem from="1771697474177" duration="987000" />
+      <workItem from="1771697474177" duration="2431000" />
     </task>
     <servers />
   </component>

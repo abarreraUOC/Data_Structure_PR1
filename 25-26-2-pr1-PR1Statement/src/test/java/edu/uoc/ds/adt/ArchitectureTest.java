@@ -15,7 +15,7 @@ public class ArchitectureTest {
         ArchRule rule = noClasses()
                 .should().dependOnClassesThat()
                 .haveNameMatching("java\\.util\\.(Vector|TreeSet|Stack|PriorityQueue|LinkedList|LinkedHashSet|Hashtable|HashSet|HashMap|Dictionary|Collections|ArrayList|ArrayDeque|AbstractSet|AbstractSequentialList|AbstractQueue|AbstractMap|AbstractList|AbstractCollection)")
-                ;//.allowEmptyShould(true);
+                ;
 
         rule.check(importedClasses);
     }

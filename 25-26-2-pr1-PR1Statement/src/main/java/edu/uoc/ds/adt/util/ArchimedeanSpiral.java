@@ -54,7 +54,6 @@ public class ArchimedeanSpiral extends JPanel {
         double step = 0.05;
 
         Point[] points = SpiralGenerator.generate(a, b, thetaMax, step);
-        //Point[] points = SpiralGeneratorDummy.generate();
 
 
         ArchimedeanSpiral panel = new ArchimedeanSpiral(points);
