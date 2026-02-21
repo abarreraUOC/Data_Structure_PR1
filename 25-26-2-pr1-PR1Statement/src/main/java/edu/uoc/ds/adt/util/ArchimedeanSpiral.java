@@ -1,5 +1,7 @@
 package edu.uoc.ds.adt.util;
 
+import edu.uoc.ds.adt.SpiralGenerator;
+
 import javax.swing.*;
 import java.awt.*;
 
@@ -51,8 +53,8 @@ public class ArchimedeanSpiral extends JPanel {
         double thetaMax = 10 * Math.PI;
         double step = 0.05;
 
-//        Point[] points = SpiralGenerator.generate(a, b, thetaMax, step);
-        Point[] points = SpiralGeneratorDummy.generate();
+        Point[] points = SpiralGenerator.generate(a, b, thetaMax, step);
+        //Point[] points = SpiralGeneratorDummy.generate();
 
 
         ArchimedeanSpiral panel = new ArchimedeanSpiral(points);

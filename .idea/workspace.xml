@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d2fca3e0-3802-4b94-bea0-655b6b7ac297" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Data_Structure_PR1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/25-26-2-pr1-PR1Statement/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/25-26-2-pr1-PR1Statement/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/25-26-2-pr1-PR1Statement/src/main/java/edu/uoc/ds/adt/util/ArchimedeanSpiral.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/25-26-2-pr1-PR1Statement/src/main/java/edu/uoc/ds/adt/util/Point.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/25-26-2-pr1-PR1Statement/src/main/java/edu/uoc/ds/adt/util/SpiralGeneratorDummy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/25-26-2-pr1-PR1Statement/src/test/java/edu/uoc/ds/adt/PR1WheatherStationDataQueueTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/25-26-2-pr1-PR1Statement/src/test/java/edu/uoc/ds/adt/PR1WheatherStationDataQueueTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/pr1/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/pr1/lib/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/pr1/src/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/pr1/src/main/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/pr1/src/main/java/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/pr1/src/main/java/edu/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/pr1/src/main/java/edu/uoc/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/pr1/src/main/java/edu/uoc/ds/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/pr1/src/main/java/edu/uoc/ds/adt/._PR1Stack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/pr1/src/test/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/pr1/src/test/java/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/pr1/src/test/java/edu/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/pr1/src/test/java/edu/uoc/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/pr1/src/test/java/edu/uoc/ds/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/pr1/src/test/java/edu/uoc/ds/adt/._PR1QueueTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/pr1/src/test/java/edu/uoc/ds/adt/._PR1StackTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pr1/src/main/java/edu/uoc/ds/adt/PR1Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/pr1/src/main/java/edu/uoc/ds/adt/PR1Queue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pr1/src/main/java/edu/uoc/ds/adt/PR1Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/pr1/src/main/java/edu/uoc/ds/adt/PR1Stack.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="39z2DyX1aq4nipMInCbrFrjrfb4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ArchimedeanSpiral.executor": "Run",
+    "Application.SpiralDemoApp.executor": "Run",
+    "Application.main.executor": "Run",
+    "JUnit.PR1StackTest.executor": "Run",
+    "JUnit.PR1StackTest.stackTest.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "E:/Estructura_de_datos/Data_Structure_PR1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.annotationProcessors",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="edu.uoc.ds.adt" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.All in DS_PR1">
+    <configuration name="ArchimedeanSpiral" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.uoc.ds.adt.util.ArchimedeanSpiral" />
+      <module name="DS_PR1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.uoc.ds.adt.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpiralDemoApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.uoc.ds.app.SpiralDemoApp" />
+      <module name="DS_PR1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.uoc.ds.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in DS_PR1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DS_PR1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PR1StackTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DS_PR1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.uoc.ds.adt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.uoc.ds.adt" />
+      <option name="MAIN_CLASS_NAME" value="edu.uoc.ds.adt.PR1StackTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PR1StackTest.stackTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DS_PR1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.uoc.ds.adt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.uoc.ds.adt" />
+      <option name="MAIN_CLASS_NAME" value="edu.uoc.ds.adt.PR1StackTest" />
+      <option name="METHOD_NAME" value="stackTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in DS_PR1" />
+        <item itemvalue="JUnit.PR1StackTest" />
+        <item itemvalue="JUnit.PR1StackTest.stackTest" />
+        <item itemvalue="Application.ArchimedeanSpiral" />
+        <item itemvalue="Application.SpiralDemoApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.26927.53" />
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-IU-251.26927.53" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d2fca3e0-3802-4b94-bea0-655b6b7ac297" name="Changes" comment="" />
+      <created>1771684462226</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1771684462226</updated>
+      <workItem from="1771684463342" duration="71000" />
+      <workItem from="1771684566086" duration="4899000" />
+      <workItem from="1771695750314" duration="1705000" />
+      <workItem from="1771697474177" duration="987000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

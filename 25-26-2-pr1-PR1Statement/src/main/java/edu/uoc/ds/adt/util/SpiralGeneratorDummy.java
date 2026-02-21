@@ -635,7 +635,7 @@ public class SpiralGeneratorDummy {
 
     public static Point[] generate() {
         Point[] res = new Point[POINTS.length];
-        for (int i = 0; i< POINTS.length-1; i++) {
+        for (int i = 0; i< POINTS.length; i++) {
             res[i] = new Point(POINTS[i][0],POINTS[i][1]);
         }
         return res;
