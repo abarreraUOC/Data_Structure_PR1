@@ -67,22 +67,22 @@ public class PR1WheatherStationDataQueueTest {
     public void queueTest2() {
         assertEquals(SIZE, this.pr1q.getQueue().size());
 
-        WeatherStationDataSummaryItem dataInfo1 = this.pr1q.getWeatherStationDataSumaryItem(2023);
+        WeatherStationDataSummaryItem dataInfo1 = this.pr1q.getWeatherStationDataSummaryItem(2023);
         Assert.assertEquals(1381.30, dataInfo1.getAccumulatedPrecipitation(),0.05);
         Assert.assertEquals(16.17, dataInfo1.getMeanAvgAirTemperature(),0.05);
         Assert.assertEquals(1213, dataInfo1.numRows());
 
-        WeatherStationDataSummaryItem dataInfo2 = this.pr1q.getWeatherStationDataSumaryItem(2024);
+        WeatherStationDataSummaryItem dataInfo2 = this.pr1q.getWeatherStationDataSummaryItem(2024);
         Assert.assertEquals(24.60, dataInfo2.getAccumulatedPrecipitation(),0.05);
         Assert.assertEquals(7.91, dataInfo2.getMeanAvgAirTemperature(),0.05);
         Assert.assertEquals(19, dataInfo2.numRows());
 
-        WeatherStationDataSummaryItem dataInfo3= this.pr1q.getWeatherStationDataSumaryItem(2025);
+        WeatherStationDataSummaryItem dataInfo3= this.pr1q.getWeatherStationDataSummaryItem(2025);
         Assert.assertEquals(0.60, dataInfo3.getAccumulatedPrecipitation(),0.05);
         Assert.assertEquals(13.08, dataInfo3.getMeanAvgAirTemperature(),0.05);
         Assert.assertEquals(46, dataInfo3.numRows());
 
-        WeatherStationDataSummaryItem dataInfo4= this.pr1q.getWeatherStationDataSumaryItem(2026);
+        WeatherStationDataSummaryItem dataInfo4= this.pr1q.getWeatherStationDataSummaryItem(2026);
         Assert.assertEquals(14.0, dataInfo4.getAccumulatedPrecipitation(),0.05);
         Assert.assertEquals(17.74, dataInfo4.getMeanAvgAirTemperature(),0.05);
         Assert.assertEquals(26, dataInfo4.numRows());

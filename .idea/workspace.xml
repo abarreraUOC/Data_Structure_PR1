@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2fca3e0-3802-4b94-bea0-655b6b7ac297" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/25-26-2-pr1-PR1Statement/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/25-26-2-pr1-PR1Statement/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/25-26-2-pr1-PR1Statement/src/main/java/edu/uoc/ds/adt/model/PR1WeatherStationDataQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/25-26-2-pr1-PR1Statement/src/main/java/edu/uoc/ds/adt/PR1WeatherStationDataQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/25-26-2-pr1-PR1Statement/src/main/java/edu/uoc/ds/adt/model/WeatherStationData.java" beforeDir="false" afterPath="$PROJECT_DIR$/25-26-2-pr1-PR1Statement/src/main/java/edu/uoc/ds/adt/model/WeatherStationData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/25-26-2-pr1-PR1Statement/src/main/java/edu/uoc/ds/adt/model/WeatherStationDataSummaryItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/25-26-2-pr1-PR1Statement/src/main/java/edu/uoc/ds/adt/model/WeatherStationDataSummaryItem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/25-26-2-pr1-PR1Statement/src/main/java/edu/uoc/ds/adt/util/ArchimedeanSpiral.java" beforeDir="false" afterPath="$PROJECT_DIR$/25-26-2-pr1-PR1Statement/src/main/java/edu/uoc/ds/adt/util/ArchimedeanSpiral.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/25-26-2-pr1-PR1Statement/src/test/java/edu/uoc/ds/adt/ArchitectureTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/25-26-2-pr1-PR1Statement/src/test/java/edu/uoc/ds/adt/ArchitectureTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/25-26-2-pr1-PR1Statement/src/test/java/edu/uoc/ds/adt/PR1WheatherStationDataQueueTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/25-26-2-pr1-PR1Statement/src/test/java/edu/uoc/ds/adt/PR1WheatherStationDataQueueTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pr1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pr1/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d2fca3e0-3802-4b94-bea0-655b6b7ac297" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -166,7 +156,7 @@
       <workItem from="1771684463342" duration="71000" />
       <workItem from="1771684566086" duration="4899000" />
       <workItem from="1771695750314" duration="1705000" />
-      <workItem from="1771697474177" duration="2431000" />
+      <workItem from="1771697474177" duration="2474000" />
     </task>
     <servers />
   </component>

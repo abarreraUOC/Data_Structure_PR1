@@ -83,7 +83,7 @@ public class PR1WeatherStationDataQueue {
         return count == 0 ? 0.0 : sum / count;
     }
 
-    public WeatherStationDataSummaryItem getWeatherStationDataSumaryItem(int year) {
+    public WeatherStationDataSummaryItem getWeatherStationDataSummaryItem(int year) {
         for (int i = 0; i < years.length; i++) {
             if (years[i] == year) {
                 return summaryItems[i];

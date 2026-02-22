@@ -29,7 +29,7 @@ public class ArchimedeanSpiral extends JPanel {
         for (int i = 0; i <= currentIndex && i < points.length; i++) {
             double x = points[i].x();
             double y = points[i].y();
-            g2d.fillOval((int) (x - size / 2), (int) (y - size / 2), size, size);
+            g2d.fillOval((int) (x - (double) size / 2), (int) (y - (double) size / 2), size, size);
         }
     }
 
