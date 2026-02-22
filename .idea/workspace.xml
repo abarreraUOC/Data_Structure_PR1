@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2fca3e0-3802-4b94-bea0-655b6b7ac297" name="Changes" comment="" />
+    <list default="true" id="d2fca3e0-3802-4b94-bea0-655b6b7ac297" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,6 +40,7 @@
     "JUnit.All in DS_PR1.executor": "Run",
     "JUnit.PR1StackTest.executor": "Run",
     "JUnit.PR1StackTest.stackTest.executor": "Run",
+    "JUnit.java in DS_PR1.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
@@ -62,26 +65,13 @@
       <recent name="edu.uoc.ds.adt" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.All in DS_PR1">
+  <component name="RunManager" selected="JUnit.java in DS_PR1">
     <configuration name="ArchimedeanSpiral" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="edu.uoc.ds.adt.util.ArchimedeanSpiral" />
       <module name="DS_PR1" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="edu.uoc.ds.adt.util.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SpiralDemoApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.uoc.ds.app.SpiralDemoApp" />
-      <module name="DS_PR1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="edu.uoc.ds.app.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,13 +118,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="java in DS_PR1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DS_PR1" />
+      <option name="TEST_OBJECT" value="directory" />
+      <dir value="$PROJECT_DIR$/25-26-2-pr1-PR1Statement/src/test/java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.java in DS_PR1" />
         <item itemvalue="JUnit.All in DS_PR1" />
         <item itemvalue="JUnit.PR1StackTest" />
         <item itemvalue="JUnit.PR1StackTest.stackTest" />
         <item itemvalue="Application.ArchimedeanSpiral" />
-        <item itemvalue="Application.SpiralDemoApp" />
       </list>
     </recent_temporary>
   </component>
@@ -157,6 +155,7 @@
       <workItem from="1771684566086" duration="4899000" />
       <workItem from="1771695750314" duration="1705000" />
       <workItem from="1771697474177" duration="2474000" />
+      <workItem from="1771756431770" duration="1388000" />
     </task>
     <servers />
   </component>
